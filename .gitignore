@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Flutter
+frontend/.dart_tool/
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# Backend uploads (user generated)
+backend/uploads/*.jpg
+backend/uploads/*.jpeg
+backend/uploads/*.png
+!backend/uploads/.gitkeep
+
+# Logs
+*.log
+
+# Environment
+.env

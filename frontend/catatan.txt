@@ -1,0 +1,5 @@
+1. Pastikan API berjalan di XAMPP. Untuk emulator Android gunakan baseUrl http://10.0.2.2/elearning_qc_api
+2. Jika menggunakan perangkat fisik, ganti baseUrl dengan IP lokal PC misal http://192.168.1.5/elearning_qc_api
+3. Sesuaikan nama field JSON jika API menghasilkan nama berbeda. Di backend yang saya buat, response 'sukses' mengandung key 'data' dan 'pesan'.
+4. Contoh updateProgres menggunakan id_pendaftaran = 1. Sesuaikan alur pendaftaran sebenarnya.
+5. Jika butuh fitur penyimpanan token atau session, saya bisa tambahkan SharedPreferences.

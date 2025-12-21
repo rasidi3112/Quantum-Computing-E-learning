@@ -1,0 +1,19 @@
+name: elearning_qc_app
+description: Aplikasi e-learning Quantum Computing sederhana
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_markdown: ^0.7.7+1
+  flutter_math_fork: ^0.7.4
+  http: ^0.13.6
+  image_picker: ^1.2.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
