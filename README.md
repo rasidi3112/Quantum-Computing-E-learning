@@ -1,6 +1,6 @@
 # Quantum Computing E-Learning
 
-A full-stack mobile e-learning application focused on Quantum Computing education. Built as a final project for Programming III course, Semester 3, Faculty of Engineering Computer Science University Of Bumigora.
+A full-stack mobile e-learning application focused on Quantum Computing education. Built as a final project for Programming III course, Semester 3, Faculty of Engineering Computer Science University Of Bumigora
 
 ## Project Overview
 
