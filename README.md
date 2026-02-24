@@ -240,9 +240,6 @@ This project fulfills the following academic requirements:
 - Backend API with PHP
 - MySQL database integration
 
-## License
-
-This project is developed for educational purposes as part of academic coursework.
 
 ---
 
